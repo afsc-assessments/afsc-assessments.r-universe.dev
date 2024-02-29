@@ -1,0 +1,21 @@
+[
+  {
+    "package": "spmR",
+    "url": "https://github.com/afsc-assessments/spmR"
+  },
+
+  {
+    "package": "ebswp",
+    "url": "https://github.com/afsc-assessments/ebswp"
+  },
+
+  {
+    "package": "mse",
+    "url": "https://github.com/flr/mse"
+  },
+  
+  {
+    "package": "rema",
+    "url": "https://github.com/SPRFMO/rema"
+  }
+]
